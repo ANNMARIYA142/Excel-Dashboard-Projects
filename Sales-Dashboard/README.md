@@ -17,3 +17,6 @@ An interactive Excel dashboard built to analyze sales performance across differe
 - Category-wise sales analysis
 - Manager performance comparison
 - Interactive filtering by year, state, and category
+
+## Dashboard Preview
+![Sales Dashboard](sales-dashboard.png)
