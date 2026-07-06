@@ -1,4 +1,6 @@
-Project Overview
+# Supermarket Sales Dashboard
+
+## Project Overview
 
 This project presents an interactive sales dashboard created in Microsoft Excel using the Supermarket Sales dataset. The dashboard provides insights into sales performance, customer ratings, revenue, payment methods, product categories, and city-wise sales.
 
