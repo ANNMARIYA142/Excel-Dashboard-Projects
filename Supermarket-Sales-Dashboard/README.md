@@ -11,6 +11,7 @@ This project presents an interactive sales dashboard created in Microsoft Excel 
 - Slicers
 - KPI Cards
 - Conditional Formatting
+- 
 ## Dashboard Features
 - 📈 Total Sales KPI
 - 💰 Revenue KPI
@@ -22,8 +23,4 @@ This project presents an interactive sales dashboard created in Microsoft Excel 
 - 📉 Monthly Sales Trend
 - 🎛️ Interactive filters for City, Product Line, and Payment Method
 
-Files Included
-Supermarket Sales Dashboard.xlsx
-dashboard-preview.png
-README.md
-Dashboard Preview
+## Dashboard Preview
