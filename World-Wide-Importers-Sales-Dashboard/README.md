@@ -19,3 +19,6 @@ This project is an interactive Microsoft Excel dashboard developed using the Wor
 - 📊 Monthly Sales Trend
 - 🏙️ Top 10 Cities by Sales
 - 🎛️ Interactive filters for Fiscal Year, Sales Territory, and Timeline
+## Dashboard Preview
+
+![World Wide Importers Dashboard](world wide importers dashboard.png)
