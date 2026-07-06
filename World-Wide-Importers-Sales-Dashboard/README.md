@@ -21,4 +21,4 @@ This project is an interactive Microsoft Excel dashboard developed using the Wor
 - 🎛️ Interactive filters for Fiscal Year, Sales Territory, and Timeline
 ## Dashboard Preview
 
-![World Wide Importers Dashboard](world wide importers dashboard.png)
+![World Wide Importers Dashboard](world%20wide%20importers%20dashboard.png)
