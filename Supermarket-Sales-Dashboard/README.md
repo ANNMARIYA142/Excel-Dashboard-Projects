@@ -24,3 +24,4 @@ This project presents an interactive sales dashboard created in Microsoft Excel 
 - 🎛️ Interactive filters for City, Product Line, and Payment Method
 
 ## Dashboard Preview
+![Supermarket Sales Dashboard](supermarket%20sales%20dashboard.png)
