@@ -25,4 +25,4 @@ This project is an interactive Match Analysis Dashboard built in Microsoft Excel
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![IPL match dashboard](IPL%20Match%20Analysis%20Dashboard.png)
